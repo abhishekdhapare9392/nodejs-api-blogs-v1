@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-api-blogs",
+  "version": "1.0.0",
+  "description": "Nice closed api for blogs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Dhapare",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
